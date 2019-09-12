@@ -1,0 +1,48 @@
+
+
+body {
+  text-align: center;
+}
+
+#wrapper {
+
+  margin: 0 auto;
+}
+
+p {
+    font-family: "Arial";
+}
+.suche {
+    background-color: #4267b2;
+    color: white;
+    height: 80px;
+    padding-top: 20px;
+
+
+}
+input {
+    border: 20px solid #4267b2;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Arial";
+}
+
+img:hover {
+    border: 5px #4267b2 solid;
+}
+
+button {
+    background-color: #4267b2;
+    color: white;
+}
+
+button:hover {
+        background-color: grey;
+}
